@@ -15,4 +15,5 @@ app.get("/friends", function (req, res) {
 
 app.listen(3000, function () {
   console.log("Server Ported on 3000");
+  console.log("vamos")
 });
